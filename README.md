@@ -1,4 +1,4 @@
-# GeekForLife.Altis
-La Mission de Geek For Life (Altis Life) que je partage
+# Altis-Life-Scripts
+Mission Altis Life qui me sert à développé mes scripts, elle est complétement libre d'accés.
 
 
